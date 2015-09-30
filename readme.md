@@ -10,6 +10,7 @@
 - [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ) By Ashley Williams
 - [Reduce seu novo melhor amigo](https://www.youtube.com/watch?v=P9mAnhNFKO4) By Ju Gonçalves
 - [JavaScript @Spotify](https://www.youtube.com/watch?v=xyR4G2XgcHU) By Felipe Ribeiro
+- [ECMAScript 5: The New Parts](https://www.youtube.com/watch?v=UTEqr0IlFKY) By Douglas Crockford
 
 ### Functional Programming
 
