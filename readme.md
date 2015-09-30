@@ -9,7 +9,6 @@
 - [ECMAScript Harmony: Rise of the Compilers](https://www.youtube.com/watch?v=PlmsweSNhTw&index) By Brendan Eich
 - [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ) By Ashley Williams
 - [Reduce seu novo melhor amigo](https://www.youtube.com/watch?v=P9mAnhNFKO4) By Ju Gonçalves
-- [JavaScript @Spotify](https://www.youtube.com/watch?v=xyR4G2XgcHU) By Felipe Ribeiro
 - [ECMAScript 5: The New Parts](https://www.youtube.com/watch?v=UTEqr0IlFKY) By Douglas Crockford
 - [Async programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc) By Jafar Husain
 - [Advanced JavaScript](https://www.youtube.com/watch?v=DwYPG6vreJg) By Douglas Crockford
@@ -29,10 +28,18 @@
 
 - [Improving Your Workflow With Code Transformation](https://www.youtube.com/watch?v=OFuDvqZmUrE) By Sebastian McKenzie
 
+### Databases/Data Manipulation/Data Science
+
+- [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) By Martin Fowler
+
 ### Methodologies/Techniques
 
 - [Clean Architecture and Design](https://www.youtube.com/watch?v=asLUTiJJqdE) By Robert C. Martin
 - [The S.O.L.I.D Principles of OO and Agile Design](https://www.youtube.com/watch?v=t86v3N4OshQ) By Robert C. Martin
+- [Continuous Delivery](https://www.youtube.com/watch?v=skLJuksCRTw) By Jez Humble
+
+### Architecture
+- [JavaScript @Spotify](https://www.youtube.com/watch?v=xyR4G2XgcHU) By Felipe Ribeiro
 
 ### Linux/BSD/Free Software
 
