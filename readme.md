@@ -32,6 +32,7 @@
 ### Methodologies/Techniques
 
 - [Clean Architecture and Design](https://www.youtube.com/watch?v=asLUTiJJqdE) By Robert C. Martin
+- [The S.O.L.I.D Principles of OO and Agile Design](https://www.youtube.com/watch?v=t86v3N4OshQ) By Robert C. Martin
 
 ### Linux/BSD/Free Software
 
