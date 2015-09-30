@@ -13,6 +13,8 @@
 - [Async programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc) By Jafar Husain
 - [Advanced JavaScript](https://www.youtube.com/watch?v=DwYPG6vreJg) By Douglas Crockford
 - [Node.js: serious business](https://www.youtube.com/watch?v=_0opytdAXHk) By Pedro Franceschi
+- [Pinky Promise](https://www.youtube.com/watch?v=-N8kFr_gaAI) By Diogo Pereira Ribeiro
+- [Usando reactJS para criar a futura plataforma de vídeos da globo.com](https://www.youtube.com/watch?v=Hm49qF7DAXw) By Túlio Ornelas
 
 ### Functional Programming
 
@@ -40,6 +42,8 @@
 
 ### Architecture
 - [JavaScript @Spotify](https://www.youtube.com/watch?v=xyR4G2XgcHU) By Felipe Ribeiro
+- [Microservices](https://www.youtube.com/watch?v=2yko4TbC8cI) By Martin Fowler
+- [Criação de APIs lightweight com harvester.js](https://www.youtube.com/watch?v=r2bIhTO5FcM) By Diogo Lucas
 
 ### Linux/BSD/Free Software
 
