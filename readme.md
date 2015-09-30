@@ -12,6 +12,8 @@
 - [JavaScript @Spotify](https://www.youtube.com/watch?v=xyR4G2XgcHU) By Felipe Ribeiro
 - [ECMAScript 5: The New Parts](https://www.youtube.com/watch?v=UTEqr0IlFKY) By Douglas Crockford
 - [Async programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc) By Jafar Husain
+- [Advanced JavaScript](https://www.youtube.com/watch?v=DwYPG6vreJg) By Douglas Crockford
+
 ### Functional Programming
 
 - [Functional Programming](https://www.youtube.com/watch?v=DHubfS8E--o) By Bodil Stokke
