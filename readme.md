@@ -13,6 +13,7 @@
 - [ECMAScript 5: The New Parts](https://www.youtube.com/watch?v=UTEqr0IlFKY) By Douglas Crockford
 - [Async programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc) By Jafar Husain
 - [Advanced JavaScript](https://www.youtube.com/watch?v=DwYPG6vreJg) By Douglas Crockford
+- [Node.js: serious business](https://www.youtube.com/watch?v=_0opytdAXHk) By Pedro Franceschi
 
 ### Functional Programming
 
