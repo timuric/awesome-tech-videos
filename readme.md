@@ -29,6 +29,10 @@
 
 - [Improving Your Workflow With Code Transformation](https://www.youtube.com/watch?v=OFuDvqZmUrE) By Sebastian McKenzie
 
+### Methodologies/Techniques
+
+- [Clean Architecture and Design](https://www.youtube.com/watch?v=asLUTiJJqdE) By Robert C. Martin
+
 ### Linux/BSD/Free Software
 
 - [Windows is AWESOME](https://www.youtube.com/watch?v=Zu0l-Ac7fTU&index=1&list=PLzcMzE4Sz1bDfHOZ2gTbcT7l4p2RaHa1L) - Bryan Lunduke
