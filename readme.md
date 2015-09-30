@@ -4,10 +4,10 @@
 
 ### Programming Languages
 
-* JavaScript
+#### JavaScript
 
 - [ECMAScript Harmony: Rise of the Compilers](https://www.youtube.com/watch?v=PlmsweSNhTw&index) By Brendan Eich
-- (If you wish to learn ES6/2015 from scratch, you must first invent the universe)[https://www.youtube.com/watch?v=DN4yLZB1vUQ] By Ashley Williams
+- [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ) By Ashley Williams
 - [Reduce seu novo melhor amigo](https://www.youtube.com/watch?v=P9mAnhNFKO4) By Ju Gonçalves
 - [JavaScript @Spotify](https://www.youtube.com/watch?v=xyR4G2XgcHU) By Felipe Ribeiro
 
