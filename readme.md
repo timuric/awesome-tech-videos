@@ -16,12 +16,14 @@
 - [Pinky Promise](https://www.youtube.com/watch?v=-N8kFr_gaAI) By Diogo Pereira Ribeiro
 - [Usando reactJS para criar a futura plataforma de vídeos da globo.com](https://www.youtube.com/watch?v=Hm49qF7DAXw) By Túlio Ornelas
 
-### Functional Programming
+### Functional Programming/Theory of Programming Languages
 
 - [Functional Programming](https://www.youtube.com/watch?v=DHubfS8E--o) By Bodil Stokke
 - [Learning Functional Programming without Growing a Neckbeard](https://www.youtube.com/watch?v=OOvL6QAxRK4) By Kelsey Innis
 - [The Algebra of Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) By Chris Taylor
 - [Dont fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) By Brian Beckman
+- [Monads and Gonads](https://www.youtube.com/watch?v=dkZFtimgAcM) By Douglas Crockford
+- [Functional Programming is Terrible](https://www.youtube.com/watch?v=hzf3hTUKk8U) By Runar Bjarnson
 
 ### Math
 
