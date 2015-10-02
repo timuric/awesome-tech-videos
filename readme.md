@@ -21,6 +21,7 @@
 - [Functional Programming](https://www.youtube.com/watch?v=DHubfS8E--o) By Bodil Stokke
 - [Learning Functional Programming without Growing a Neckbeard](https://www.youtube.com/watch?v=OOvL6QAxRK4) By Kelsey Innis
 - [The Algebra of Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) By Chris Taylor
+- [Dont fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) By Brian Beckman
 
 ### Math
 
