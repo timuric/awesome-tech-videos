@@ -15,6 +15,7 @@
 - [Node.js: serious business](https://www.youtube.com/watch?v=_0opytdAXHk) By Pedro Franceschi
 - [Pinky Promise](https://www.youtube.com/watch?v=-N8kFr_gaAI) By Diogo Pereira Ribeiro
 - [Usando reactJS para criar a futura plataforma de vídeos da globo.com](https://www.youtube.com/watch?v=Hm49qF7DAXw) By Túlio Ornelas
+- [JavaScript at 20](https://www.youtube.com/watch?v=bM79WQ9iMZQ) By Brendan Eich
 
 ### Functional Programming/Theory of Programming Languages
 
