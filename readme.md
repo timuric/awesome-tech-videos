@@ -43,6 +43,9 @@
 - [Clean Architecture and Design](https://www.youtube.com/watch?v=asLUTiJJqdE) By Robert C. Martin
 - [The S.O.L.I.D Principles of OO and Agile Design](https://www.youtube.com/watch?v=t86v3N4OshQ) By Robert C. Martin
 - [Continuous Delivery](https://www.youtube.com/watch?v=skLJuksCRTw) By Jez Humble
+- [An Event-driven and Reactive Future](https://www.youtube.com/watch?v=_VdIQTtRkb8)
+
+* Generate specific gitignore files according to
 
 ### Architecture
 - [JavaScript @Spotify](https://www.youtube.com/watch?v=xyR4G2XgcHU) By Felipe Ribeiro
