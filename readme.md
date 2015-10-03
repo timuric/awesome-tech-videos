@@ -16,7 +16,6 @@
 - [Pinky Promise](https://www.youtube.com/watch?v=-N8kFr_gaAI) By Diogo Pereira Ribeiro
 - [Usando reactJS para criar a futura plataforma de vídeos da globo.com](https://www.youtube.com/watch?v=Hm49qF7DAXw) By Túlio Ornelas
 - [JavaScript at 20](https://www.youtube.com/watch?v=bM79WQ9iMZQ) By Brendan Eich
-- [Consolidation of Tools](https://www.youtube.com/watch?v=pqkdG1-FhHc) Sebastian McKenzie
 
 ### Functional Programming/Theory of Programming Languages
 
