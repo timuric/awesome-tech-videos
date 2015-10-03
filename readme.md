@@ -45,8 +45,6 @@
 - [Continuous Delivery](https://www.youtube.com/watch?v=skLJuksCRTw) By Jez Humble
 - [An Event-driven and Reactive Future](https://www.youtube.com/watch?v=_VdIQTtRkb8) By Jonathan Worthington
 
-* Generate specific gitignore files according to
-
 ### Architecture
 - [JavaScript @Spotify](https://www.youtube.com/watch?v=xyR4G2XgcHU) By Felipe Ribeiro
 - [Microservices](https://www.youtube.com/watch?v=2yko4TbC8cI) By Martin Fowler
