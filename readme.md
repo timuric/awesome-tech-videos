@@ -63,6 +63,7 @@
 ## Motivation
 
 - [Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - By Brian Fitzpatrick and Ben Collins-Sussman
+- [How to Teach Yourself Code](https://www.youtube.com/watch?v=T0qAjgQFR4c) - By Mattan Griffel
 
 ##### Based on: [Awesome Answers](https://github.com/jugoncalves/awesome-answers) By Ju Gonçalves
 
