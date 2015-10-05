@@ -45,6 +45,7 @@
 - [The S.O.L.I.D Principles of OO and Agile Design](https://www.youtube.com/watch?v=t86v3N4OshQ) By Robert C. Martin
 - [Continuous Delivery](https://www.youtube.com/watch?v=skLJuksCRTw) By Jez Humble
 - [An Event-driven and Reactive Future](https://www.youtube.com/watch?v=_VdIQTtRkb8) By Jonathan Worthington
+- [Agile teams without product owners](https://www.youtube.com/watch?v=SIoukaoFZ9Y) By Andie Nordgren
 
 ### Architecture
 - [JavaScript @Spotify](https://www.youtube.com/watch?v=xyR4G2XgcHU) By Felipe Ribeiro
