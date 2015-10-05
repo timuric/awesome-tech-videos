@@ -28,7 +28,7 @@
 - [Dont fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) By Brian Beckman
 - [Monads and Gonads](https://www.youtube.com/watch?v=dkZFtimgAcM) By Douglas Crockford
 - [Functional Programming is Terrible](https://www.youtube.com/watch?v=hzf3hTUKk8U) By Runar Bjarnson
-
+- [Distributed Programming in Haskell](https://www.youtube.com/watch?v=qlnU73a3Cw0) By Mathieu Boespflug
 ### Math
 
 - [Category Theory](https://www.youtube.com/watch?v=o6L6XeNdd_k&list=FLCYmxNRJq3v_zDtEQrQuBKQ) By Tom LaGatta
