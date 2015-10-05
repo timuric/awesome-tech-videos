@@ -20,6 +20,7 @@
 #### Go Programming Language
 
 - [The Go Programming Language](https://www.youtube.com/watch?v=rKnDgT73v8s) By Rob Pike
+- [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) By Rob Pike
 
 ### User Interface/User Experience/Web Design
 - [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) By Janne Jul Jensen
