@@ -29,6 +29,7 @@
 - [Monads and Gonads](https://www.youtube.com/watch?v=dkZFtimgAcM) By Douglas Crockford
 - [Functional Programming is Terrible](https://www.youtube.com/watch?v=hzf3hTUKk8U) By Runar Bjarnson
 - [Distributed Programming in Haskell](https://www.youtube.com/watch?v=qlnU73a3Cw0) By Mathieu Boespflug
+
 ### Math
 
 - [Category Theory](https://www.youtube.com/watch?v=o6L6XeNdd_k&list=FLCYmxNRJq3v_zDtEQrQuBKQ) By Tom LaGatta
@@ -42,6 +43,7 @@
 
 - [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) By Martin Fowler
 - [SQL vs NoSQL: Battle of the Backends](https://www.youtube.com/watch?v=rRoy6I4gKWU) - By Ken Ashcraft and Alfred Fuller
+
 ### Methodologies/Techniques
 
 - [The S.O.L.I.D Principles of OO and Agile Design](https://www.youtube.com/watch?v=t86v3N4OshQ) By Robert C. Martin
@@ -60,12 +62,12 @@
 - [Windows is AWESOME](https://www.youtube.com/watch?v=Zu0l-Ac7fTU&index=1&list=PLzcMzE4Sz1bDfHOZ2gTbcT7l4p2RaHa1L) - Bryan Lunduke
 - [Freedom in your computer and in the net](https://www.youtube.com/watch?v=2lupgHYiK9Q) By Richard Stallman
 
-## Motivation
+### Motivation
 
 - [Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - By Brian Fitzpatrick and Ben Collins-Sussman
 - [How to Teach Yourself Code](https://www.youtube.com/watch?v=T0qAjgQFR4c) - By Mattan Griffel
 
-## Diversity
+### Diversity
 
 - [Quiet](https://www.youtube.com/watch?v=AzlCIS072_Y) By Susan Cain
 
