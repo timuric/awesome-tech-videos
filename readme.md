@@ -65,5 +65,9 @@
 - [Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - By Brian Fitzpatrick and Ben Collins-Sussman
 - [How to Teach Yourself Code](https://www.youtube.com/watch?v=T0qAjgQFR4c) - By Mattan Griffel
 
+## Diversity
+
+- [Quiet](https://www.youtube.com/watch?v=AzlCIS072_Y) By Susan Cain
+
 ##### Based on: [Awesome Answers](https://github.com/jugoncalves/awesome-answers) By Ju Gonçalves
 
