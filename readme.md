@@ -69,7 +69,7 @@
 
 ### Diversity
 
-- [Quiet](https://www.youtube.com/watch?v=AzlCIS072_Y) By Susan Cain
+- [Quiet](https://www.youtube.com/watch?v=AzlCIS072_Y) - By Susan Cain
 
 ##### Based on: [Awesome Answers](https://github.com/jugoncalves/awesome-answers) By Ju Gonçalves
 
