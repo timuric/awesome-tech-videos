@@ -17,6 +17,10 @@
 - [Usando reactJS para criar a futura plataforma de vídeos da globo.com](https://www.youtube.com/watch?v=Hm49qF7DAXw) By Túlio Ornelas
 - [JavaScript at 20](https://www.youtube.com/watch?v=bM79WQ9iMZQ) By Brendan Eich
 
+#### Go Programming Language
+
+- [The Go Programming Language](https://www.youtube.com/watch?v=rKnDgT73v8s) By Rob Pike
+
 ### User Interface/User Experience/Web Design
 - [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) By Janne Jul Jensen
 
