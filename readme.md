@@ -62,6 +62,7 @@
 - [Microservices](https://www.youtube.com/watch?v=2yko4TbC8cI) By Martin Fowler
 - [Criação de APIs lightweight com harvester.js](https://www.youtube.com/watch?v=r2bIhTO5FcM) By Diogo Lucas
 - [Clean Architecture and Design](https://www.youtube.com/watch?v=asLUTiJJqdE) By Robert C. Martin
+- [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) By Rob Pike
 
 ### Linux/BSD/Free Software
 
