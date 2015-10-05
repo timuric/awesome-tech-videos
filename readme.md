@@ -41,7 +41,7 @@
 ### Databases/Data Manipulation/Data Science
 
 - [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) By Martin Fowler
-
+- [SQL vs NoSQL: Battle of the Backends](https://www.youtube.com/watch?v=rRoy6I4gKWU) - By Ken Ashcraft and Alfred Fuller
 ### Methodologies/Techniques
 
 - [The S.O.L.I.D Principles of OO and Agile Design](https://www.youtube.com/watch?v=t86v3N4OshQ) By Robert C. Martin
