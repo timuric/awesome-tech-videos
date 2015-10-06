@@ -80,4 +80,8 @@ really know what they are doing :)
 
 - [Quiet](https://www.youtube.com/watch?v=AzlCIS072_Y) - By Susan Cain
 
+### License
 
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Lucas Viola](http://lucasviola.github.io) has waived all copyright and related or neighboring rights to this work.
