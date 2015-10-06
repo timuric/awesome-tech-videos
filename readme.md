@@ -79,7 +79,8 @@ really know what they are doing :)
 ### Diversity
 
 - [Quiet](https://www.youtube.com/watch?v=AzlCIS072_Y) - By Susan Cain
-- [The Data on Diversity: Its Not Just About Being Fair](https://www.youtube.com/watch?v=Am3tHJzqnMk)
+- [The Data on Diversity: Its Not Just About Being Fair](https://www.youtube.com/watch?v=Am3tHJzqnMki) By Beryl Nelson
+
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
