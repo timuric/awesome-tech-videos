@@ -10,6 +10,7 @@ really know what they are doing :)
 * [Functional Programming](https://github.com/lucasviola/awesome-tech-videos#functional-programming)
 * [Math](https://github.com/lucasviola/awesome-tech-videos#math)
 * [Compilers](https://github.com/lucasviola/awesome-tech-videos#compilers)
+* [Databases](https://github.com/lucasviola/awesome-tech-videos#databases)
  
 
 ### Programming Languages
