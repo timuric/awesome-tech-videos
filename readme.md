@@ -4,6 +4,11 @@
 I think this is one of the best ways for us to learn from people who
 really know what they are doing :)
 
+### Table of Contents
+* [Programming Languages](https://github.com/lucasviola/awesome-tech-videos#programming-languages)
+* [User Interface/User Experience/Web Design](https://github.com/lucasviola/awesome-tech-videos#user-experience)
+
+
 ### Programming Languages
 
 #### JavaScript
