@@ -6,8 +6,9 @@ really know what they are doing :)
 
 #### Table of Contents
 * [Programming Languages](https://github.com/lucasviola/awesome-tech-videos#programming-languages)
-* [User Interface/User Experience/Web Design](https://github.com/lucasviola/awesome-tech-videos#user-experience)
-
+* [User Experience](https://github.com/lucasviola/awesome-tech-videos#user-experience)
+* [Functional Programming](https://github.com/lucasviola/awesome-tech-videos#functional-programming)
+ 
 
 ### Programming Languages
 
@@ -33,7 +34,7 @@ really know what they are doing :)
 ### User Experience
 - [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) By Janne Jul Jensen
 
-### Functional Programming/Theory of Programming Languages
+### Functional Programming
 
 - [Functional Programming](https://www.youtube.com/watch?v=DHubfS8E--o) By Bodil Stokke
 - [Learning Functional Programming without Growing a Neckbeard](https://www.youtube.com/watch?v=OOvL6QAxRK4) By Kelsey Innis
