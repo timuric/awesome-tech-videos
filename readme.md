@@ -55,7 +55,7 @@ really know what they are doing :)
 
 - [Improving Your Workflow With Code Transformation](https://www.youtube.com/watch?v=OFuDvqZmUrE) By Sebastian McKenzie
 
-### Databases/Data Manipulation/Data Science
+### Databases
 
 - [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) By Martin Fowler
 - [SQL vs NoSQL: Battle of the Backends](https://www.youtube.com/watch?v=rRoy6I4gKWU) - By Ken Ashcraft and Alfred Fuller
