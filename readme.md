@@ -11,6 +11,7 @@ really know what they are doing :)
 * [Math](https://github.com/lucasviola/awesome-tech-videos#math)
 * [Compilers](https://github.com/lucasviola/awesome-tech-videos#compilers)
 * [Databases](https://github.com/lucasviola/awesome-tech-videos#databases)
+* [Math](https://github.com/lucasviola/awesome-tech-videos#math)
  
 
 ### Programming Languages
@@ -61,7 +62,7 @@ really know what they are doing :)
 - [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) By Martin Fowler
 - [SQL vs NoSQL: Battle of the Backends](https://www.youtube.com/watch?v=rRoy6I4gKWU) - By Ken Ashcraft and Alfred Fuller
 
-### Methodologies/Techniques
+### Methodologies
 
 - [The S.O.L.I.D Principles of OO and Agile Design](https://www.youtube.com/watch?v=t86v3N4OshQ) By Robert C. Martin
 - [Continuous Delivery](https://www.youtube.com/watch?v=skLJuksCRTw) By Jez Humble
