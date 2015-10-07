@@ -8,6 +8,8 @@ really know what they are doing :)
 * [Programming Languages](https://github.com/lucasviola/awesome-tech-videos#programming-languages)
 * [User Experience](https://github.com/lucasviola/awesome-tech-videos#user-experience)
 * [Functional Programming](https://github.com/lucasviola/awesome-tech-videos#functional-programming)
+* [Math](https://github.com/lucasviola/awesome-tech-videos#math)
+* [Compilers](https://github.com/lucasviola/awesome-tech-videos#compilers)
  
 
 ### Programming Languages
