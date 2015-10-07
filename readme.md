@@ -11,7 +11,11 @@ really know what they are doing :)
 * [Math](https://github.com/lucasviola/awesome-tech-videos#math)
 * [Compilers](https://github.com/lucasviola/awesome-tech-videos#compilers)
 * [Databases](https://github.com/lucasviola/awesome-tech-videos#databases)
-* [Math](https://github.com/lucasviola/awesome-tech-videos#math)
+* [Methodologies](https://github.com/lucasviola/awesome-tech-videos#methodologies)
+* [Architecture](https://github.com/lucasviola/awesome-tech-videos#architecture)
+* [Linux and Free Software](https://github.com/lucasviola/awesome-tech-videos#linux-and-free-software)
+* [Motivation](https://github.com/lucasviola/awesome-tech-videos#motivation)
+* [Diversity](https://github.com/lucasviola/awesome-tech-videos#diversity)
  
 
 ### Programming Languages
