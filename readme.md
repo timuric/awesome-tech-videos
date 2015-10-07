@@ -18,6 +18,7 @@ really know what they are doing :)
 - [Pinky Promise](https://www.youtube.com/watch?v=-N8kFr_gaAI) By Diogo Pereira Ribeiro
 - [Usando reactJS para criar a futura plataforma de vídeos da globo.com](https://www.youtube.com/watch?v=Hm49qF7DAXw) By Túlio Ornelas
 - [JavaScript at 20](https://www.youtube.com/watch?v=bM79WQ9iMZQ) By Brendan Eich
+- [ES6, o que tem de bacana?](https://www.youtube.com/watch?v=VHRdSnJbNLg) By Jonathan Sampson
 
 #### Go Programming Language
 
