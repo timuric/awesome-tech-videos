@@ -86,6 +86,7 @@ really know what they are doing :)
 
 - [Windows is AWESOME](https://www.youtube.com/watch?v=Zu0l-Ac7fTU&index=1&list=PLzcMzE4Sz1bDfHOZ2gTbcT7l4p2RaHa1L) By Bryan Lunduke
 - [Freedom in your computer and in the net](https://www.youtube.com/watch?v=2lupgHYiK9Q) By Richard Stallman
+- [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) By Julia Evans
 
 ### Motivation
 
