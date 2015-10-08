@@ -56,6 +56,7 @@ really know what they are doing :)
 
 - [Category Theory](https://www.youtube.com/watch?v=o6L6XeNdd_k&list=FLCYmxNRJq3v_zDtEQrQuBKQ) By Tom LaGatta
 - [Category Theory, the essence of interface-based design](https://www.youtube.com/watch?v=JMP6gI5mLHc) By Erik Meijer
+- [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) By Philip Wadler
 
 ### Compilers
 
