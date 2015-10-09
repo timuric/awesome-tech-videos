@@ -51,6 +51,7 @@ really know what they are doing :)
 - [Monads and Gonads](https://www.youtube.com/watch?v=dkZFtimgAcM) By Douglas Crockford
 - [Functional Programming is Terrible](https://www.youtube.com/watch?v=hzf3hTUKk8U) By Runar Bjarnson
 - [Distributed Programming in Haskell](https://www.youtube.com/watch?v=qlnU73a3Cw0) By Mathieu Boespflug
+- [Coding for Types: The Universe Patern in Idris](https://www.youtube.com/watch?v=AWeT_G04a0A) By David Christiansen
 
 ### Math
 
