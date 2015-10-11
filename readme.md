@@ -54,6 +54,7 @@ really know what they are doing :)
 - [Coding for Types: The Universe Patern in Idris](https://www.youtube.com/watch?v=AWeT_G04a0A) By David Christiansen
 
 ### Talks on Papers
+- [Faith, Evolution and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) By Philip Wadler
 
 ### Math
 
