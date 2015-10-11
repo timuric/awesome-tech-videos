@@ -53,6 +53,8 @@ really know what they are doing :)
 - [Distributed Programming in Haskell](https://www.youtube.com/watch?v=qlnU73a3Cw0) By Mathieu Boespflug
 - [Coding for Types: The Universe Patern in Idris](https://www.youtube.com/watch?v=AWeT_G04a0A) By David Christiansen
 
+### Talks on Papers
+
 ### Math
 
 - [Category Theory](https://www.youtube.com/watch?v=o6L6XeNdd_k&list=FLCYmxNRJq3v_zDtEQrQuBKQ) By Tom LaGatta
