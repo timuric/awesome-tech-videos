@@ -57,6 +57,7 @@ really know what they are doing :)
 ### Talks on Papers
 - [Faith, Evolution and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) By Philip Wadler
 - [Propositions as Types](https://www.youtube.com/watch?v=K-YYoigWN24) By Michal Bernstein
+- [An axiomatic basis for Computer Science](https://www.youtube.com/watch?v=GQi-6-d5ooQ) By Jean Yang 
 
 ### Math
 
