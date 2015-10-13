@@ -83,6 +83,7 @@ really know what they are doing :)
 - [Test is Dead](https://www.youtube.com/watch?v=X1jWe5rOu3g) By Alberto Savoia
 
 ### Architecture
+
 - [JavaScript @Spotify](https://www.youtube.com/watch?v=xyR4G2XgcHU) By Felipe Ribeiro
 - [Microservices](https://www.youtube.com/watch?v=2yko4TbC8cI) By Martin Fowler
 - [Criação de APIs lightweight com harvester.js](https://www.youtube.com/watch?v=r2bIhTO5FcM) By Diogo Lucas
@@ -99,7 +100,8 @@ really know what they are doing :)
 
 - [Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - By Brian Fitzpatrick and Ben Collins-Sussman
 - [How to Teach Yourself Code](https://www.youtube.com/watch?v=T0qAjgQFR4c) - By Mattan Griffel
-- [How to Write a Great Research Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) By Simon Peyton Jones
+- [How to Write a Great Research Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) - By Simon Peyton Jones
+
 ### Diversity
 
 - [Quiet](https://www.youtube.com/watch?v=AzlCIS072_Y) - By Susan Cain
