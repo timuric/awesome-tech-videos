@@ -58,6 +58,7 @@ really know what they are doing :)
 - [Faith, Evolution and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) By Philip Wadler
 - [Propositions as Types](https://www.youtube.com/watch?v=K-YYoigWN24) By Michal Bernstein
 - [An axiomatic basis for Computer Science](https://www.youtube.com/watch?v=GQi-6-d5ooQ) By Jean Yang 
+- [One VM to Rule Them All](https://www.youtube.com/watch?v=L3e8G5l9gT8) - By Aysylu Greenberg
 
 ### Math
 
