@@ -102,6 +102,7 @@ really know what they are doing :)
 - [Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - By Brian Fitzpatrick and Ben Collins-Sussman
 - [How to Teach Yourself Code](https://www.youtube.com/watch?v=T0qAjgQFR4c) - By Mattan Griffel
 - [How to Write a Great Research Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) - By Simon Peyton Jones
+- [The Top 10 Ways To Scam The Modern American](https://www.youtube.com/watch?v=neI_Pj558CY) By Zed A. Shaw
 
 ### Diversity
 
