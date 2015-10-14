@@ -103,7 +103,7 @@ really know what they are doing :)
 - [How to Teach Yourself Code](https://www.youtube.com/watch?v=T0qAjgQFR4c) - By Mattan Griffel
 - [How to Write a Great Research Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) - By Simon Peyton Jones
 - [The Top 10 Ways To Scam The Modern American](https://www.youtube.com/watch?v=neI_Pj558CY) By Zed A. Shaw
-
+- [The Imaginative Programmer](https://www.youtube.com/watch?v=w1-bDwNtG-I) By Zed A. Shaw
 ### Diversity
 
 - [Quiet](https://www.youtube.com/watch?v=AzlCIS072_Y) - By Susan Cain
