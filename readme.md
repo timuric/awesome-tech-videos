@@ -73,7 +73,7 @@ really know what they are doing :)
 ### Databases
 
 - [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) By Martin Fowler
-- [SQL vs NoSQL: Battle of the Backends](https://www.youtube.com/watch?v=rRoy6I4gKWU) - By Ken Ashcraft and Alfred Fuller
+- [SQL vs NoSQL: Battle of the Backends](https://www.youtube.com/watch?v=rRoy6I4gKWU) By Ken Ashcraft and Alfred Fuller
 
 ### Methodologies
 
@@ -100,16 +100,16 @@ really know what they are doing :)
 
 ### Motivation
 
-- [Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - By Brian Fitzpatrick and Ben Collins-Sussman
-- [How to Teach Yourself Code](https://www.youtube.com/watch?v=T0qAjgQFR4c) - By Mattan Griffel
-- [How to Write a Great Research Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) - By Simon Peyton Jones
+- [Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) By Brian Fitzpatrick and Ben Collins-Sussman
+- [How to Teach Yourself Code](https://www.youtube.com/watch?v=T0qAjgQFR4c) By Mattan Griffel
+- [How to Write a Great Research Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) By Simon Peyton Jones
 - [The Top 10 Ways To Scam The Modern American](https://www.youtube.com/watch?v=neI_Pj558CY) By Zed A. Shaw
 - [The Imaginative Programmer](https://www.youtube.com/watch?v=w1-bDwNtG-I) By Zed A. Shaw
 - [Impossible Programming](https://www.youtube.com/watch?v=hN63FOa_Gp4) By Tom Stuart
 
 ### Diversity
 
-- [Quiet](https://www.youtube.com/watch?v=AzlCIS072_Y) - By Susan Cain
+- [Quiet](https://www.youtube.com/watch?v=AzlCIS072_Y) By Susan Cain
 - [The Data on Diversity: Its Not Just About Being Fair](https://www.youtube.com/watch?v=Am3tHJzqnMki) By Beryl Nelson
 
 ### License
