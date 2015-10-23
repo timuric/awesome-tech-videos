@@ -96,6 +96,7 @@ really know what they are doing :)
 - [Clean Architecture and Design](https://www.youtube.com/watch?v=asLUTiJJqdE) By Robert C. Martin
 - [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) By Rob Pike
 - [Microservices Anti-Patterns](https://www.youtube.com/watch?v=I56HzTKvZKc) By Tammer Saleh
+- [How GitHub Uses GitHub to Build GitHub](https://www.youtube.com/watch?v=qyz3jkOBbQY) By Zach Holman
 
 ### Linux and Free Software
 
