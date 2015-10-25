@@ -45,6 +45,10 @@ really know what they are doing :)
 
 - [James Gosling on Apple, Apache, Google, Oracle and the Future of Java](https://www.youtube.com/watch?v=9ei-rbULWoA) By James Gosling
 
+#### Elixir
+
+- [Embedded Elixir in Action](https://www.youtube.com/watch?v=kpzQrFC55q4) By Garth Hitchens 
+
 ### User Experience
 - [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) By Janne Jul Jensen
 
