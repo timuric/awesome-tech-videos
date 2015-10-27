@@ -117,6 +117,7 @@ really know what they are doing :)
 - [The Imaginative Programmer](https://www.youtube.com/watch?v=w1-bDwNtG-I) By Zed A. Shaw
 - [Impossible Programming](https://www.youtube.com/watch?v=hN63FOa_Gp4) By Tom Stuart
 - [Writing Software](https://www.youtube.com/watch?v=9LfmrkyP81M) By David Heinemeier Hansson
+- [LoneStarRuby 2015 - Code Club](https://www.youtube.com/watch?v=sLAvSgcrgZM) By Saron Yitbarek
 
 ### Diversity
 
