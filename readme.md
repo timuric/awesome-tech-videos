@@ -49,6 +49,10 @@ really know what they are doing :)
 
 - [Embedded Elixir in Action](https://www.youtube.com/watch?v=kpzQrFC55q4) By Garth Hitchens 
 
+#### Ruby
+
+- [Building a Binary Client Protocol in Ruby: A magical Journey](https://www.youtube.com/watch?v=JLoOAGEAAjo) By Trevor Rosen and egypt
+
 ### User Experience
 - [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) By Janne Jul Jensen
 
