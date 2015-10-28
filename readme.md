@@ -35,6 +35,7 @@ really know what they are doing :)
 - [JavaScript at 20](https://www.youtube.com/watch?v=bM79WQ9iMZQ) By Brendan Eich
 - [ES6, o que tem de bacana?](https://www.youtube.com/watch?v=VHRdSnJbNLg) By Jonathan Sampson
 - [.promise() to show you .when() to use Deferreds](https://www.youtube.com/watch?v=juRtEEsHI9E) By Alex McPherson
+- [Functional Javascript: Reverse-engineering the Hype](https://www.youtube.com/watch?v=aeh5Fmh_tmw) By Ben Anderson
 
 #### Go Programming Language
 
