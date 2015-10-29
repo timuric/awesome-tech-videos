@@ -132,6 +132,7 @@ really know what they are doing :)
 - [Quiet](https://www.youtube.com/watch?v=AzlCIS072_Y) By Susan Cain
 - [The Data on Diversity: Its Not Just About Being Fair](https://www.youtube.com/watch?v=Am3tHJzqnMki) By Beryl Nelson
 - [Re-Inventing the Rosetta Stone Together](https://www.youtube.com/watch?v=OOzAly5Rs7g) By Mariko Kosaka
+
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
