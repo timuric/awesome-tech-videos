@@ -54,6 +54,7 @@ really know what they are doing :)
 
 - [Building a Binary Client Protocol in Ruby: A magical Journey](https://www.youtube.com/watch?v=JLoOAGEAAjo) By Trevor Rosen and egypt
 - [Off the Rails](https://www.youtube.com/watch?v=aP5NNkzb4og) By Sam Saffron
+- [Tackling Large Ruby Refactorings with Confidence](https://www.youtube.com/watch?v=Kr82hUeI_qI) By Jesse Toth
 
 ### User Experience
 - [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) By Janne Jul Jensen
