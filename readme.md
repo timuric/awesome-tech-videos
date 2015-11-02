@@ -56,6 +56,10 @@ really know what they are doing :)
 - [Off the Rails](https://www.youtube.com/watch?v=aP5NNkzb4og) By Sam Saffron
 - [Tackling Large Ruby Refactorings with Confidence](https://www.youtube.com/watch?v=Kr82hUeI_qI) By Jesse Toth
 
+#### Scala
+
+- [We are Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) By Paul Phillips
+
 ### User Experience
 - [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) By Janne Jul Jensen
 
