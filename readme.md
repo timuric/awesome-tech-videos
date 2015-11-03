@@ -132,7 +132,7 @@ really know what they are doing :)
 - [Writing Software](https://www.youtube.com/watch?v=9LfmrkyP81M) By David Heinemeier Hansson
 - [LoneStarRuby 2015 - Code Club](https://www.youtube.com/watch?v=sLAvSgcrgZM) By Saron Yitbarek
 - [My Dog Taught Me to Code](https://www.youtube.com/watch?v=yCBUsd52a3s) By Dave Thomas
-- [Simplicity Aint Easy](https://www.youtube.com/watch?v=cidchWg74Y4)
+- [Simplicity Aint Easy](https://www.youtube.com/watch?v=cidchWg74Y4) By Stuart Halloway
 
 ### Diversity
 
