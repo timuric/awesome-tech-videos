@@ -112,6 +112,7 @@ really know what they are doing :)
 - [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) By Rob Pike
 - [Microservices Anti-Patterns](https://www.youtube.com/watch?v=I56HzTKvZKc) By Tammer Saleh
 - [How GitHub Uses GitHub to Build GitHub](https://www.youtube.com/watch?v=qyz3jkOBbQY) By Zach Holman
+- [Facebook and memcached](https://www.youtube.com/watch?v=UH7wkvcf0ys) By Mark Zuckerberg
 
 ### Linux and Free Software
 
