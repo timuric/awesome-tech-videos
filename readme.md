@@ -49,6 +49,7 @@ really know what they are doing :)
 #### Elixir
 
 - [Embedded Elixir in Action](https://www.youtube.com/watch?v=kpzQrFC55q4) By Garth Hitchens 
+- [How to Contribute to Elixir and Phoenix](https://www.youtube.com/watch?v=uMrsJahHi3k) By Wendy Smoak
 
 #### Ruby
 
