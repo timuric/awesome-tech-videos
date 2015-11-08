@@ -17,7 +17,7 @@ really know what they are doing :)
 * [Linux and Free Software](https://github.com/lucasviola/awesome-tech-videos#linux-and-free-software)
 * [Motivation](https://github.com/lucasviola/awesome-tech-videos#motivation)
 * [Diversity](https://github.com/lucasviola/awesome-tech-videos#diversity)
- 
+
 
 ### Programming Languages
 
@@ -36,6 +36,7 @@ really know what they are doing :)
 - [ES6, o que tem de bacana?](https://www.youtube.com/watch?v=VHRdSnJbNLg) By Jonathan Sampson
 - [.promise() to show you .when() to use Deferreds](https://www.youtube.com/watch?v=juRtEEsHI9E) By Alex McPherson
 - [Functional Javascript: Reverse-engineering the Hype](https://www.youtube.com/watch?v=aeh5Fmh_tmw) By Ben Anderson
+- [Using JavaScript to Teach JavaScript](https://www.youtube.com/watch?v=H4sSldXv_S4) By John Resig
 
 #### Go Programming Language
 
@@ -48,7 +49,7 @@ really know what they are doing :)
 
 #### Elixir
 
-- [Embedded Elixir in Action](https://www.youtube.com/watch?v=kpzQrFC55q4) By Garth Hitchens 
+- [Embedded Elixir in Action](https://www.youtube.com/watch?v=kpzQrFC55q4) By Garth Hitchens
 - [How to Contribute to Elixir and Phoenix](https://www.youtube.com/watch?v=uMrsJahHi3k) By Wendy Smoak
 
 #### Ruby
@@ -78,7 +79,7 @@ really know what they are doing :)
 ### Talks on Papers
 - [Faith, Evolution and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) By Philip Wadler
 - [Propositions as Types](https://www.youtube.com/watch?v=K-YYoigWN24) By Michal Bernstein
-- [An axiomatic basis for Computer Science](https://www.youtube.com/watch?v=GQi-6-d5ooQ) By Jean Yang 
+- [An axiomatic basis for Computer Science](https://www.youtube.com/watch?v=GQi-6-d5ooQ) By Jean Yang
 - [One VM to Rule Them All](https://www.youtube.com/watch?v=L3e8G5l9gT8) - By Aysylu Greenberg
 
 ### Math
