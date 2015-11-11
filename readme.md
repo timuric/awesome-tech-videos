@@ -92,7 +92,7 @@ really know what they are doing :)
 ### Compilers
 
 - [Improving Your Workflow With Code Transformation](https://www.youtube.com/watch?v=OFuDvqZmUrE) By Sebastian McKenzie
-
+- [Rise of the Transpilers](https://www.youtube.com/watch?v=DspYurD75Ns) By Jeremy Ashkenas
 ### Databases
 
 - [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) By Martin Fowler
