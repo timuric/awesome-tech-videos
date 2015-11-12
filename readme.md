@@ -7,6 +7,7 @@ really know what they are doing :)
 ## Table of Contents
 * [Programming Languages](https://github.com/lucasviola/awesome-tech-videos#programming-languages)
 * [User Experience](https://github.com/lucasviola/awesome-tech-videos#user-experience)
+* [Front-End Development](https://github.com/lucasviola/awesome-tech-videos#front-end-development)
 * [Functional Programming](https://github.com/lucasviola/awesome-tech-videos#functional-programming)
 * [Talks on Papers](https://github.com/lucasviola/awesome-tech-videos#talks-on-papers)
 * [Math](https://github.com/lucasviola/awesome-tech-videos#math)
@@ -17,7 +18,6 @@ really know what they are doing :)
 * [Linux and Free Software](https://github.com/lucasviola/awesome-tech-videos#linux-and-free-software)
 * [Motivation](https://github.com/lucasviola/awesome-tech-videos#motivation)
 * [Diversity](https://github.com/lucasviola/awesome-tech-videos#diversity)
-
 
 ### Programming Languages
 
@@ -65,6 +65,9 @@ really know what they are doing :)
 
 ### User Experience
 - [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) By Janne Jul Jensen
+
+### Front-End Development
+- [A future called Web Components](https://www.youtube.com/watch?v=TKYjzQ0T1q0) By Zeno Rocha
 
 ### Functional Programming
 
