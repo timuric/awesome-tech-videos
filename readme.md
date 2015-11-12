@@ -68,6 +68,7 @@ really know what they are doing :)
 
 ### Front-End Development
 - [A future called Web Components](https://www.youtube.com/watch?v=TKYjzQ0T1q0) By Zeno Rocha
+- [Cascading Shit Show](https://www.youtube.com/watch?v=iniwPUEbPUM) By Jacob Thornton
 
 ### Functional Programming
 
