@@ -58,7 +58,7 @@ really know what they are doing :)
 - [Off the Rails](https://www.youtube.com/watch?v=aP5NNkzb4og) By Sam Saffron
 - [Tackling Large Ruby Refactorings with Confidence](https://www.youtube.com/watch?v=Kr82hUeI_qI) By Jesse Toth
 - [OMG Ruby and Rails Performance](https://www.youtube.com/watch?v=JMGmaRZtgM8) By Aaron Patterson
-
+- [React.js on Rails](https://www.youtube.com/watch?v=kTSsZrub5iE)
 #### Scala
 
 - [We are Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) By Paul Phillips
