@@ -37,6 +37,7 @@ really know what they are doing :)
 - [.promise() to show you .when() to use Deferreds](https://www.youtube.com/watch?v=juRtEEsHI9E) By Alex McPherson
 - [Functional Javascript: Reverse-engineering the Hype](https://www.youtube.com/watch?v=aeh5Fmh_tmw) By Ben Anderson
 - [Using JavaScript to Teach JavaScript](https://www.youtube.com/watch?v=H4sSldXv_S4) By John Resig
+- [Babel 6.0](https://www.youtube.com/watch?v=Q_ncaTYEizc) By Sebastian McKenzie
 
 #### Go Programming Language
 
