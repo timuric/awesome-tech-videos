@@ -5,19 +5,19 @@ I think this is one of the best ways for us to learn from people who
 really know what they are doing :)
 
 ## Table of Contents
-* [Programming Languages](https://github.com/lucasviola/awesome-tech-videos#programming-languages)
-* [User Experience](https://github.com/lucasviola/awesome-tech-videos#user-experience)
-* [Front-End Development](https://github.com/lucasviola/awesome-tech-videos#front-end-development)
-* [Functional Programming](https://github.com/lucasviola/awesome-tech-videos#functional-programming)
-* [Talks on Papers](https://github.com/lucasviola/awesome-tech-videos#talks-on-papers)
-* [Math](https://github.com/lucasviola/awesome-tech-videos#math)
-* [Compilers](https://github.com/lucasviola/awesome-tech-videos#compilers)
-* [Databases](https://github.com/lucasviola/awesome-tech-videos#databases)
-* [Methodologies](https://github.com/lucasviola/awesome-tech-videos#methodologies)
-* [Architecture](https://github.com/lucasviola/awesome-tech-videos#architecture)
-* [Linux and Free Software](https://github.com/lucasviola/awesome-tech-videos#linux-and-free-software)
-* [Motivation](https://github.com/lucasviola/awesome-tech-videos#motivation)
-* [Diversity](https://github.com/lucasviola/awesome-tech-videos#diversity)
+* [Programming Languages](#programming-languages)
+* [User Experience](#user-experience)
+* [Front-End Development](#front-end-development)
+* [Functional Programming](#functional-programming)
+* [Talks on Papers](#talks-on-papers)
+* [Math](#math)
+* [Compilers](#compilers)
+* [Databases](#databases)
+* [Methodologies](#methodologies)
+* [Architecture](#architecture)
+* [Linux and Free Software](#linux-and-free-software)
+* [Motivation](#motivation)
+* [Diversity](#diversity)
 
 ### Programming Languages
 
